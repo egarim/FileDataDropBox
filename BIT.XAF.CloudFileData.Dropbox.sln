@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.XAF.CloudFileData.Dropbox", "BIT.XAF.CloudFileData.Dropbox.csproj", "{AFB78F4C-135E-4184-BC6B-C4E63DDB3060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB78F4C-135E-4184-BC6B-C4E63DDB3060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB78F4C-135E-4184-BC6B-C4E63DDB3060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB78F4C-135E-4184-BC6B-C4E63DDB3060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB78F4C-135E-4184-BC6B-C4E63DDB3060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565BCC29-C8EB-40BB-90C9-079843B1CB6D}
+	EndGlobalSection
+EndGlobal
