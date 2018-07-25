@@ -12,7 +12,7 @@ To get the authorization token use the following command
 BitFwks.DropBoxAuthGenerator.exe YourApiKey
 
 Once you have the authorization token you need to add some parameters on the app/web.config as shown below
-<pre lang="xml" >
+```xml
 <appSettings>
     <!-- ... -->
     <add key="DropBoxFileDataDefaultFolder" value="NameOfMyFolderOnDropBox"/>
@@ -20,6 +20,7 @@ Once you have the authorization token you need to add some parameters on the app
     <!-- ... -->
   </appSettings>
 </pre>
+```
   Now you can declare a DropBoxFileData as any other persistent property
   
         DropBoxFileData attachment;
