@@ -1,3 +1,12 @@
+<b>FileDataDropBox</b>
+
+To make DropBoxFileData work you will need a dropbox api key and a authorization token
+to get the api key you can go to this address https://dropbox.com/developers/apps
+when you have the api key you will need to generate an authorization token you can use this utility for that
+
+
+https://github.com/egarim/FileDataDropBox/blob/master/DropBoxAuthGenerator.zip
+
 To get the authorization token use the following command
 
 BitFwks.DropBoxAuthGenerator.exe YourApiKey
